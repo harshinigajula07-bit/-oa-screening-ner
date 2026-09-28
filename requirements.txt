@@ -1,0 +1,9 @@
+streamlit
+numpy
+pandas
+requests
+Pillow
+opencv-python
+mediapipe
+vosk
+streamlit-mic-recorder
