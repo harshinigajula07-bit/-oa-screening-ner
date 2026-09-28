@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+oa_screening.db
+temp/
+temp_recording.wav
+assets/profile/
+.env
